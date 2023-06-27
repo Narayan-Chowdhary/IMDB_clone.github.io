@@ -83,7 +83,7 @@ async function removeFavorite(id) {
     }
     //Alerting the user and refreshing the page
     alert('Movie Removed from Watchlist');
-    window.location.replace('favorite.html');
+    window.location.replace('fav.html');
 }
 
 //Displaying the movie list on the search page according to the user list
